@@ -4,7 +4,7 @@
 
     <groupId>ru.yandex.clickhouse</groupId>
     <artifactId>clickhouse-jdbc</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1-c1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>clickhouse-jdbc</name>
